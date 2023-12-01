@@ -39,28 +39,28 @@ class AuthPage extends StatelessWidget {
                   ),
                 ),
                 Text(
-                  'Gustavo',
+                  'GUSTAVO DE DEUS CONCEIÇÃO - RA: 1431432312013',
                   style: TextStyle(
                     fontSize: 18,
                     color: Colors.white,
                   ),
                 ),
                 Text(
-                  'Murilo',
+                  'JOSÉ ANTONIO RAMOS BARRETO GOMES - RA: 1431432312026',
                   style: TextStyle(
                     fontSize: 18,
                     color: Colors.white,
                   ),
                 ),
                 Text(
-                  'Samuel',
+                  'MURILO MARTINS ALVES - RA: 1431432312004',
                   style: TextStyle(
                     fontSize: 18,
                     color: Colors.white,
                   ),
                 ),
                 Text(
-                  'José',
+                  'SAMUEL HENRIQUE RICOMINI SOUZA - RA: 1431432312002',
                   style: TextStyle(
                     fontSize: 18,
                     color: Colors.white,
