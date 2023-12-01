@@ -32,37 +32,37 @@ class AuthPage extends StatelessWidget {
               children: [
                 const SizedBox(height: 20),
                 Text(
-                  'ENRICO FERREIRA DOS SANTOS - RA: 1431432312012',
+                  'ENRICO FERREIRA |RA:1431432312012',
                   style: TextStyle(
-                    fontSize: 18,
+                    fontSize: 17,
                     color: Colors.white,
                   ),
                 ),
                 Text(
-                  'GUSTAVO DE DEUS CONCEIÇÃO - RA: 1431432312013',
+                  'GUSTAVO DE DEUS |RA:1431432312013',
                   style: TextStyle(
-                    fontSize: 18,
+                    fontSize: 17,
                     color: Colors.white,
                   ),
                 ),
                 Text(
-                  'JOSÉ ANTONIO - RA: 1431432312026',
+                  'JOSÉ ANTONIO |RA:1431432312026',
                   style: TextStyle(
-                    fontSize: 18,
+                    fontSize: 17,
                     color: Colors.white,
                   ),
                 ),
                 Text(
-                  'MURILO MARTINS - RA: 1431432312004',
+                  'MURILO MARTINS |RA:1431432312004',
                   style: TextStyle(
-                    fontSize: 18,
+                    fontSize: 17,
                     color: Colors.white,
                   ),
                 ),
                 Text(
-                  'SAMUEL HENRIQUE - RA: 1431432312002',
+                  'SAMUEL HENRIQUE |RA:1431432312002',
                   style: TextStyle(
-                    fontSize: 18,
+                    fontSize: 17,
                     color: Colors.white,
                   ),
                 ),
